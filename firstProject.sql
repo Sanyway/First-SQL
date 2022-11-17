@@ -66,7 +66,6 @@ age
 'tiagojar@hotma.com',
 'backend',
 '23'
-
 ),
 (
 '1b2f5050-662e-11ed-9022-0242ac120002',
@@ -75,7 +74,6 @@ age
 'tamartilove52@yahoo.com',
 'linipis2',
 '28'
-
 );
 
 
@@ -104,7 +102,6 @@ url
 '8fb0bb8c-6631-11ed-9022-0242ac120002',
 'How to develop',
 'https://www.youtube.com/watch?v=bJzb-RuUcMU&ab_channel=CroatCode'
-
 );
 
 insert into categories (
